@@ -18,7 +18,7 @@ public class ParametresiDegiskenMetotlar {
         sayilariCarp(75,28,37,42);
         
     }
-public static void sayilariCarp(int... sayilar){ // Sanki sayilar adında bir dizi oluşturulmuş gibi düşünüiebilir.
+public static void sayilariCarp(int... sayilar){ // Sanki sayilar adında bir dizi oluşturulmuş gibi düşünülebilir.
     int carpim=1;
     for(int i:sayilar)
         {   
